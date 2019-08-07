@@ -1,0 +1,12 @@
+C:\Users\somay\assignment\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\somay\assignment\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\somay\assignment\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\CareerCloud.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\somay\assignment\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\somay\assignment\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\somay\assignment\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\somay\source\repos\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\somay\source\repos\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\somay\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\somay\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\somay\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\somay\source\repos\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\CareerCloud.DataAccessLayer.csprojAssemblyReference.cache

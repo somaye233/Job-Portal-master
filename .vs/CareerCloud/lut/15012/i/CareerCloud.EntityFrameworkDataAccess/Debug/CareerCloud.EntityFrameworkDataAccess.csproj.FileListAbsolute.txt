@@ -1,0 +1,6 @@
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\b\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.EntityFrameworkDataAccess.dll.config
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\b\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.EntityFrameworkDataAccess\Debug\CareerCloud.EntityFrameworkDataAccess.csprojAssemblyReference.cache
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.EntityFrameworkDataAccess\Debug\CareerCloud.EntityFrameworkDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.EntityFrameworkDataAccess\Debug\CareerCloud.EntityFrameworkDataAccess.csproj.CopyComplete
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.EntityFrameworkDataAccess\Debug\CareerCloud.EntityFrameworkDataAccess.dll

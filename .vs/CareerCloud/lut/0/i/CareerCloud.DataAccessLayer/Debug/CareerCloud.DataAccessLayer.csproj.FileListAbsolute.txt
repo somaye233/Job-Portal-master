@@ -1,0 +1,5 @@
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\b\CareerCloud.DataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.DataAccessLayer\Debug\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.DataAccessLayer\Debug\CareerCloud.DataAccessLayer.csproj.CopyComplete
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.DataAccessLayer\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.DataAccessLayer\Debug\CareerCloud.DataAccessLayer.csprojAssemblyReference.cache

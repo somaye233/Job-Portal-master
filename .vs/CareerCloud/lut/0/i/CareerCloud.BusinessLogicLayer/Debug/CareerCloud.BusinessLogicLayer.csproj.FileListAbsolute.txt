@@ -1,0 +1,5 @@
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\b\CareerCloud.BusinessLogicLayer\bin\Debug\CareerCloud.BusinessLogicLayer.dll
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.BusinessLogicLayer\Debug\CareerCloud.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.BusinessLogicLayer\Debug\CareerCloud.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.BusinessLogicLayer\Debug\CareerCloud.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.BusinessLogicLayer\Debug\CareerCloud.BusinessLogicLayer.dll

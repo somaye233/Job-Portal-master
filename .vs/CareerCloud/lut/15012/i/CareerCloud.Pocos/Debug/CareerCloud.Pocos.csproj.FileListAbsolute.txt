@@ -1,0 +1,5 @@
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\b\CareerCloud.Pocos\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.Pocos\Debug\CareerCloud.Pocos.csprojAssemblyReference.cache
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.Pocos\Debug\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.Pocos\Debug\CareerCloud.Pocos.csproj.CopyComplete
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.Pocos\Debug\CareerCloud.Pocos.dll

@@ -1,0 +1,9 @@
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\b\CareerCloud.UnitTests.Assignment2-master\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\b\CareerCloud.UnitTests.Assignment2-master\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\b\CareerCloud.UnitTests.Assignment2-master\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\b\CareerCloud.UnitTests.Assignment2-master\CareerCloud.UnitTests.Assignment2\bin\Debug\CareerCloud.UnitTests.Assignment2.dll.config
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\b\CareerCloud.UnitTests.Assignment2-master\CareerCloud.UnitTests.Assignment2\bin\Debug\CareerCloud.UnitTests.Assignment2.dll
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.UnitTests.Assignment2\Debug\CareerCloud.UnitTests.Assignment2.csprojAssemblyReference.cache
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.UnitTests.Assignment2\Debug\CareerCloud.UnitTests.Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.UnitTests.Assignment2\Debug\CareerCloud.UnitTests.Assignment2.csproj.CopyComplete
+C:\Users\somay\source\repos\CareerCloud\.vs\CareerCloud\lut\0\i\CareerCloud.UnitTests.Assignment2\Debug\CareerCloud.UnitTests.Assignment2.dll
